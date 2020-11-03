@@ -15,7 +15,7 @@ Basically, current dir from where you are running the jar, you should have "reso
 - changes-json-file: mixtape-changes.json (also, this file is self explanatory)  
 - output-json-file : mixtape-output.json - you might have to format the json file after it is created depending on editor or you can just copy-paste file to jsonlint.com and validate.  
 
-4. Run using: "java -jar ../mixTape.jar mixtape-data.json mixtape-changes.json output.json"  
+4. Run using: "java -jar mixTape.jar mixtape-data.json mixtape-changes.json output.json"  
 Output:  
 Parsing Src file: resources/mixtape-data.json  
 Parsing Changes file: resources/mixtape-changes.json  
