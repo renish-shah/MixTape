@@ -1,9 +1,9 @@
 # MixTape
 
 ## Problem Description
-This is a program which reads user, playlist, and songs data from source json;  
-Modifies the existing data in memory, and  
-write a new output file with the modifications in the same format of the source json.  
+1. This is a program which reads user, playlist, and songs data from source json  
+2. Designed and configured the mixtape-changes file through which you can modify the existing data in memory
+3. Finally, based on parsing of mixtape-changes file, the program writes a new output file with the modifications in the same format of the source json.  
 
 ## To Run:
 1. MixTape.jar is located under https://github.com/renish-shah/MixTape  
